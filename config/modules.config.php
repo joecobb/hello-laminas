@@ -10,4 +10,5 @@ return [
     'Laminas\Validator',
     'Laminas\ZendFrameworkBridge',
     'Application',
+    'Album',
 ];
